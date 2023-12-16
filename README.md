@@ -10,7 +10,6 @@ Here are some of the projects I've worked on:
 - ['数智眼镜门店管理系统'](http://store.useeglass.com/): Cooperate with offline stores to open business, and a set of full-process cashier system composed of a total of 15 modules such as membership management, consumption cashier, optometry and glasses, and commodity management.
 - ['大客户管理系统'](https://cms.ngdonline.cn/): Traditional back-end management system.
 - ['未来设计师H5'](https://shop.ngdonline.cn/wap): A personalized customization platform for youth design derivatives, where users can upload personal works and customized products for their works. If the user's affiliate or seller can sell goods on the platform to earn commissions.
-- ['莽夫App'](https://gitee.com/sunpine1001/pokemmo-reckless-app): This is a PokeMMO game tool that allows you to view the king information in real time and view the data offline after logging in
 
 ## Contact
 Let's connect! Feel free to reach out to me on:
