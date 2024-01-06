@@ -14,3 +14,7 @@ Here are some of the projects I've worked on:
 Let's connect! Feel free to reach out to me on:
 - Twitter: [@aulduns](https://twitter.com/aulduns)
 - Email: auldunsyoung@gmail.com
+
+## To do
+- Learn Nuxt
+- Create a blog site（Set up a server）
